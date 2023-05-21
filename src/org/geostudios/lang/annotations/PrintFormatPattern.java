@@ -1,13 +1,10 @@
-package main.org.geostudios.lang.annotations;
+package org.geostudios.lang.annotations;
 
-/**
- * @author Logan Abernathy
- * @since CDK-Lib 1.0.0
- */
 @Pattern(PrintFormatPattern.PRINT_FORMAT)
 public @interface PrintFormat {
 }
 
+// split up complex regex and workaround for IDEA-9173
 class PrintFormatPattern {
 
     // %[argument_index$][flags][width][.precision]conversion

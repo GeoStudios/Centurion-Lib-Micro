@@ -1,4 +1,4 @@
-package main.org.geostudios.lang.annotations;
+package org.geostudios.lang.annotations;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;

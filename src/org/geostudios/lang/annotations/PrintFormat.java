@@ -1,4 +1,4 @@
-package main.org.geostudios.lang.annotations;
+package org.geostudios.lang.annotations;
 
 @Pattern(PrintFormatPattern.PRINT_FORMAT)
 public @interface PrintFormat {

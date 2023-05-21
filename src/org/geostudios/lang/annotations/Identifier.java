@@ -1,4 +1,4 @@
-package main.org.geostudios.lang.annotations;
+package org.geostudios.lang.annotations;
 
 /**
  * @author Logan Abernathy

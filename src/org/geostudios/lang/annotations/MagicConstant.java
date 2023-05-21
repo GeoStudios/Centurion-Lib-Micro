@@ -1,6 +1,6 @@
-package main.org.geostudios.lang.annotations;
+package org.geostudios.lang.annotations;
 
-import main.org.centurion.annotations.NonNls;
+import org.centurion.annotations.NonNls;
 
 import java.lang.annotation.*;
 

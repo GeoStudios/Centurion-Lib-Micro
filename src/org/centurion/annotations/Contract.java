@@ -1,4 +1,4 @@
-package main.org.centurion.annotations;
+package org.centurion.annotations;
 
 import java.lang.annotation.*;
 import java.util.concurrent.atomic.AtomicBoolean;

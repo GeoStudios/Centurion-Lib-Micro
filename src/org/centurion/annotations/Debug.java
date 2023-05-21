@@ -1,4 +1,4 @@
-package main.org.centurion.annotations;
+package org.centurion.annotations;
 
 import org.geostudios.lang.annotations.Language;
 
